@@ -1,17 +1,18 @@
-[![Python 3.5](https://img.shields.io/badge/Python-3.5-yellow.svg)](http://www.python.org/download/) 
+[![Python 3.5](https://img.shields.io/badge/Python-3.5-blue.svg)](http://www.python.org/download/) 
 
-# winpayload :
+# SKILLER :
 - With this payload you can control the target computer with (cmd)
 
-# install winpayload :
+# install SKILLER :
 ```
-git clone https://github.com/7elyas10/winpayload.git
+git clone https://github.com/7elyas10/skiller.git
 
-cd winpayload
+cd skiller
 
 pip install -r req.txt
 
-python winpayload.py
+python skiller.py
 ```
+
 ## Operating Systems Tested
 - windows
